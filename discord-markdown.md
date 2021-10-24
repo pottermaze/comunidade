@@ -11,9 +11,8 @@ Para nossa sorte, o discord utiliza markdown. Com ele, você pode expor suas ide
 - ****negrito sublinhado****: \_\_\*\*underline bold\*\*\_\_
 - ****_negrito itálico sublinhando_****: \_\_\*\*\*underline bold italics\*\*\*\_\_
 
-## Blocos
-
-Para criar blocos basta você utilizar os backticks (`)
+## Blocos 
+seja vc mesmo não seja as pessoas s2`)(
 
 ![Com apenas um, você cria um destaque no texto](assets/one-backtick.png)
 
